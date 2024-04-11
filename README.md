@@ -73,13 +73,6 @@ file_parse.py
 - [x] Multithreading
 - [x] `.env` file fro options
 
-<!-- CONTACT -->
-## Contact
-
-Neetu Kushwaha - neetumits@gmail.com or nkushwaha@turing.ac.uk
-
-Link: 
-
 ## Options
 
 ### Show browser during an scraping
